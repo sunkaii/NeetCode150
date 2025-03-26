@@ -1,20 +1,20 @@
 # Question
 
-## 題目敘述
+## Description
 ## Example
 ```
 
 ```
-## 思路
+## Approach
 
-## 注意
+## Considerations
 - 
-## 解法
+## Solution
 #### language: CPP
 ```
 
 ```
-## 時間複雜度
+## Time Complexity
 $O()$
-## 參考資料
+## Reference
 - 

@@ -48,7 +48,7 @@
 | --- | --- | --- | --- |
 | [Binary Search](https://neetcode.io/problems/binary-search) | Easy | [704](https://leetcode.com/problems/binary-search/description/) | |
 | [Search a 2D Matrix](https://neetcode.io/problems/search-a-2d-matrix) | Medium | [74](https://leetcode.com/problems/search-a-2d-matrix/description/) | |
-| [Koko Eating Bananas](https://neetcode.io/problems/koko-eating-bananas) | Medium | [875](https://leetcode.com/problems/koko-eating-bananas/description/) | |
+| [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas) | Medium | [875](https://leetcode.com/problems/koko-eating-bananas/description/) | |
 | [Find Minimum in Rotated Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array) | Medium | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | |
 | [Search in Rotated Sorted Array](https://neetcode.io/problems/search-in-rotated-sorted-array) | Medium | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | |
 | [Time Based Key-Value Store](https://neetcode.io/problems/time-based-key-value-store) | Medium | [981](https://leetcode.com/problems/time-based-key-value-store/description/) | |
