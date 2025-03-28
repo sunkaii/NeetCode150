@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | Easy | [217](https://leetcode.com/problems/contains-duplicate/description/) |[C++](./Problem/Arrays%20&%20Hashing/Contains%20Duplicate.md) |
 | [Valid Anagram](https://neetcode.io/problems/is-anagram) | Easy | [242](https://leetcode.com/problems/valid-anagram/description/) |[C++](./Problem/Arrays%20&%20Hashing/Valid%20Anagram.md) |
-| [Two Sum](https://neetcode.io/problems/two-sum) | Easy | [1](https://leetcode.com/problems/two-sum/description/) | |
+| [Two Sum](https://neetcode.io/problems/two-integer-sum) | Easy | [1](https://leetcode.com/problems/two-sum/description/) |[C++](./Problem/Arrays%20&%20Hashing/Two%20Sum.md) |
 | [Group Anagrams](https://neetcode.io/problems/group-anagrams) | Medium | [49](https://leetcode.com/problems/group-anagrams/description/) | |
 | [Top K Frequent Elements](https://neetcode.io/problems/top-k-frequent-elements) | Medium | [347](https://leetcode.com/problems/top-k-frequent-elements/description/) | |
 | [Encode and Decode Strings](https://neetcode.io/problems/encode-and-decode-strings) | Medium | [271](https://leetcode.com/problems/encode-and-decode-strings/description/) | |
